@@ -1,15 +1,14 @@
-Aqui está o arquivo `README.md` para o projeto "Stikman World":
-
 ```markdown
 # Stikman World
 
-**Stikman World** é um jogo 2D de plataforma desenvolvido em Python usando a biblioteca Pygame. Neste jogo, você controla um personagem (Stikman) que pode interagir com diferentes blocos, pular, e explorar o mundo do jogo.
-
-## Requisitos
+Stikman World é um jogo 2D de plataforma desenvolvido em Python usando a biblioteca Pygame. Neste jogo, você controla um personagem (Cúbico) que pode interagir com diferentes blocos, pular, e explorar o mundo do jogo.
+```
+```
+# Requisitos
 
 Para rodar o jogo, você precisa ter Python 3.x instalado em seu sistema, além da biblioteca Pygame. Você pode instalar o Pygame usando o seguinte comando:
-
-```bash
+```
+```
 pip install pygame
 ```
 
@@ -70,6 +69,3 @@ Certifique-se de ter as imagens e músicas nos diretórios apropriados antes de 
 ## Licença
 
 Este projeto é licenciado sob a [Licença MIT](LICENSE).
-```
-
-Salve o conteúdo acima em um arquivo chamado `README.md` na raiz do seu projeto. Este arquivo fornece uma visão geral completa do projeto, instruções para instalação, uso e detalhes sobre os recursos do jogo.
